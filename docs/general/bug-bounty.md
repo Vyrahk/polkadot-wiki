@@ -48,7 +48,7 @@ Examples:
 
 Responsible investigation and reporting include, but isn't limited to, the following:
 
-- Don't violate the privacy of other users, destroy data, etc.
+- Don't violate the privacy of other users, destroy etc.
 - Don't defraud or harm Polkadot network or its users during your research; you should make a good
   faith effort not to interrupt or degrade our services.
 - Don't target the validators' physical security measures, or attempt to use social engineering,
